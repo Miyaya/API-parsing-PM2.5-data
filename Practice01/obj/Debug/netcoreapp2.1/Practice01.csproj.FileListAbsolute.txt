@@ -1,0 +1,14 @@
+c:\users\systex\source\repos\Practice01\Practice01\bin\Debug\netcoreapp2.1\Practice01.deps.json
+c:\users\systex\source\repos\Practice01\Practice01\bin\Debug\netcoreapp2.1\Practice01.runtimeconfig.json
+c:\users\systex\source\repos\Practice01\Practice01\bin\Debug\netcoreapp2.1\Practice01.runtimeconfig.dev.json
+c:\users\systex\source\repos\Practice01\Practice01\bin\Debug\netcoreapp2.1\Practice01.dll
+c:\users\systex\source\repos\Practice01\Practice01\bin\Debug\netcoreapp2.1\Practice01.pdb
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.csprojAssemblyReference.cache
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.csproj.CoreCompileInputs.cache
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.RazorAssemblyInfo.cache
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.RazorAssemblyInfo.cs
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.AssemblyInfoInputs.cache
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.AssemblyInfo.cs
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.RazorTargetAssemblyInfo.cache
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.dll
+c:\users\systex\source\repos\Practice01\Practice01\obj\Debug\netcoreapp2.1\Practice01.pdb
